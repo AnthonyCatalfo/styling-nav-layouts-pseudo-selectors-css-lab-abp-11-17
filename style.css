@@ -70,4 +70,17 @@ nav a :hover{
 #sample a:hover{
   text-decoration: underline;
 }
-  
+div.questions{
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+div.questions h4{
+  font-size: 30px;
+  margin: 10px;
+}
+div.questions p{
+  margin-top: 30px;
+}
+div.questions
